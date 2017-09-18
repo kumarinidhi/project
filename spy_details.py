@@ -1,5 +1,5 @@
-spy_name = 'Bond'
-spy_salutation = 'Mr.'
-spy_age = 21
-spy_rating = 4.7
+# details of default user
+from globals import Spy
+spy = Spy("Mr","Holmes",25,4.7,True)
+
 
